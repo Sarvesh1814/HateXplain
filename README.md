@@ -1,11 +1,11 @@
-**HateXplain**
+#**HateXplain**
 
 This repository contains code for the HateXplain project which aims to classify hate speech and offensive language in text.
 
-**Embeddings**
+#**Embeddings**
 The Embeddings.ipynb file in this repository contains code to create Word2Vec embeddings for the dataset and visualize the words using the Embedding Projector, which helps to gain a better understanding of the dataset.
 
-**Models Created**
+#**Models Created**
 
 We have implemented several models for hate speech classification, including:
 
