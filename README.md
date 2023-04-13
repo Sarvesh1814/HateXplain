@@ -16,8 +16,8 @@ We have implemented several models for hate speech classification, including:
 
 5) **CNN_GRU models** - from version 6 we started working on combined out of text class and the target community by the use of CNN_GRU models
   
-  a) CNN_GRU_V6 : https://colab.research.google.com/drive/154WXNkakCuT4iErIjd02Fo7R5dZvCR4E?usp=sharing
+      a) CNN_GRU_V6 : https://colab.research.google.com/drive/154WXNkakCuT4iErIjd02Fo7R5dZvCR4E?usp=sharing
   
-  b) CNN_GRU_V7 : https://colab.research.google.com/drive/1m4qh51M050d9l2XK-urWqjvJNC71kmNR?usp=sharing
+      b) CNN_GRU_V7 : https://colab.research.google.com/drive/1m4qh51M050d9l2XK-urWqjvJNC71kmNR?usp=sharing
 
 We continue to work on improving the models for hate speech classification and welcome contributions from the community.
