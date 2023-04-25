@@ -7,8 +7,11 @@ The classical machine learning models used for the task are:
 
 **Logistic Regression**
 -SVC
+
 -Random Forest Classifier
+
 -Naive Bayes Classifier
+
 -Decision Tree Classifier
 
 **The deep learning models used for the task are:**
