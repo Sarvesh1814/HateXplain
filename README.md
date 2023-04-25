@@ -5,7 +5,7 @@ This project is focused on classifying tweets into three groups: normal, hatespe
 # Models Used
 The classical machine learning models used for the task are:
 
-**Logistic Regression**
+-Logistic Regression
 
 -SVC
 
