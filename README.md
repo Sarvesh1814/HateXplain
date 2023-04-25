@@ -43,4 +43,6 @@ To use this project, you can clone this repository and run the various Jupyter n
 
 -**Hiren Thakkar**: Classical Machine Learning Models, Preprocessing
 
+Further contributions can be seen in individual branches which are made according to the names of the contributors.
+
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request with any improvements or suggestions.
