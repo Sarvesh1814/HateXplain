@@ -29,8 +29,11 @@ To use this project, you can clone this repository and run the various Jupyter n
 
 # Contributions:
 -**Vipasha Vaghela**: HateXplain BiRNN, HateXplain BERT (Failed Attempt), Preprocessing  
+
 -**Sarvesh Bagwe**:  Word2Vec Embeddings, LSTM with Glove Embeddings, CNN GRU HateXplain, Preprocessing
+
 -**Vedant Dave**: Distill BERT HateXplain (Successful Attempt), CNN, Preprocessing 
+
 -**Hiren Thakkar**: Classical Machine Learning Models, Preprocessing
 
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request with any improvements or suggestions.
